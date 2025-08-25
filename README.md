@@ -154,23 +154,22 @@ python ./mass_mail.py --retry-from-log send_log_YYYYmmdd_HHMMSS.csv --docx ./cov
 * Hidden logo: mail client may block images by default
 
 ## Clone or fork
-Clone:
 
+[![Stars](https://img.shields.io/github/stars/jm-vis/jmvis-rfq-batch-mailer?style=flat)](https://github.com/jm-vis/jmvis-rfq-batch-mailer/stargazers)
+[![Release](https://img.shields.io/github/v/release/jm-vis/jmvis-rfq-batch-mailer?display_name=tag)](https://github.com/jm-vis/jmvis-rfq-batch-mailer/releases)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/jm-vis/jmvis-rfq-batch-mailer/blob/main/LICENSE)
+
+### Clone
 ```bash
-git clone https://github.com/<owner>/jmvis-rfq-batch-mailer.git
+git clone https://github.com/jm-vis/jmvis-rfq-batch-mailer.git
 cd jmvis-rfq-batch-mailer
 ```
 
-Fork:
-
-* Use the GitHub Fork button, or
-* GitHub CLI:
-
+### Fork
+Use the **Fork** button on GitHub, or via the GitHub CLI:
 ```bash
-gh repo fork https://github.com/<owner>/jmvis-rfq-batch-mailer --clone
+gh repo fork jm-vis/jmvis-rfq-batch-mailer --clone
+cd jmvis-rfq-batch-mailer
 ```
 
-```
-
-::contentReference[oaicite:0]{index=0}
-```
+[Quick start →](#quick-start)
