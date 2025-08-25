@@ -1,6 +1,9 @@
-.venv/
 .env
+outbox/
+send_log_*.csv
+.venv/
+*.eml
 __pycache__/
 *.pyc
-logs/
 .DS_Store
+Thumbs.db
