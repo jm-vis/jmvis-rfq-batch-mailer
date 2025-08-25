@@ -1,4 +1,3 @@
-Here is a clean `README.md`. Copy the full block as-is.
 # jmvis-rfq-batch-mailer
 Send personalized RFQ emails with two attachments:
 - A personalized cover letter (DOCX per recipient, converted to PDF)
