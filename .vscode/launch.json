@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "RFQ Dry-Run",
+      "type": "python",
+      "request": "launch",
+      "program": "${workspaceFolder}/mass_mail.py",
+      "args": [
+        "--contacts", "${workspaceFolder}/contacts.csv",
+        "--docx", "${workspaceFolder}/cover_letter_template.docx",
+        "--xlsx", "${workspaceFolder}/specifications.xlsx",
+        "--dry-run"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "envFile": "${workspaceFolder}/.env"
+    }
+  ]
+}
+

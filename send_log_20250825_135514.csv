@@ -1,0 +1,2 @@
+run_id,timestamp,attempt,email,name,gender,company,subject,attachments,status,message_id,error
+20250825_135514,2025-08-25T13:55:21,1,joachim.vis+rfq1@vis-consult.de,Anna Huber,f,Huber Metall GmbH,RFQ for Huber Metall GmbH - documents attached,"Cover_Letter_Huber_Metall_GmbH.pdf, specifications.xlsx",sent,<175612292078.13856.9599486120341276574@PC-VISCONSULT.fritz.box>,
